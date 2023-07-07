@@ -1,14 +1,14 @@
-  ### Hi there 👋
+<h3>Hi there 👋</h3>
 
-<h1 align="center">👋 Senior Software Engineer</h1>
+<h1 align="center">👋 Full Stack Developer & Scraping Expert</h1>
 😎 Trusted engineer with 7+ years of experience in FullStack development.
 
 - 🔭 I’m currently working on several various Stacks like Dapp projects related to DeFi and NFT.
 - 🌱 I’m currently mastering chatGPT, AI, web scraping/crawling, Bot development with python
 - 👯 I’m looking to collaborate on developing FullStack development and AI industry.
-- 📫 
+- 📫 I `m so prefer advance and creative technologies. Thank you.
 
-# Stack
+<h1 align="center">My Stacks</h1>
 
 <a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
 <a href="https://vuejs.org/guide/introduction.html"><img src="./assets/vue.svg" alt="vue" height="100" title="Vue documentation"></a>
@@ -18,7 +18,7 @@
 <a href="https://docs.oracle.com/en/java/"><img src="./assets/java-original.svg" alt="java" height="100" title="Java documentation"></a>
 <a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
 
-# Languages & Framework
+<h1 align="center">Languages & Framework</h1>
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -139,11 +139,6 @@
 
 </div>
 
-# Welcome
-
-![Github stats](https://mickey-github-readme-stats.vercel.app/api?username=codewizard-echo&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=tokyonight)
-![Github langs](https://mickey-github-readme-stats.vercel.app/api/top-langs/?username=codewizard-echo&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)
- 
 <br />
   
   ---
